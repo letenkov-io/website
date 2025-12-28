@@ -35,5 +35,4 @@ Eugene Letenkov works in an advisory role with engineering
 and data platforms at the stage where the cost of mistakes
 outweighs the cost of development.
 
-For professional context and contact information, see  
-https://letenkov.ru
+For professional context and contact information, see https://letenkov.ru
