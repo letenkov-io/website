@@ -1,10 +1,7 @@
 ---
-title: Letenkov I/O
+title: Technical Notes
 toc: false
 ---
-
-# Technical Notes
-
 This site contains engineering reflections, architectural reasoning,
 and system-level insights focused on complex platforms.
 
