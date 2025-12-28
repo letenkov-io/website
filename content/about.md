@@ -2,9 +2,6 @@
 title: About
 type: about
 ---
-
-About
-
 This space exists to document how complex engineering systems are reasoned about, not how they are implemented.
 
 Letenkov I/O is a collection of technical notes, architectural reflections, and system-level observations focused on platforms that have moved beyond experimentation and entered long-term operation.
